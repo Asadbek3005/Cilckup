@@ -1,2 +1,4 @@
-package com.example.clickup.Entitiy.Abstrakt;public class Loader {
+package com.example.clickup.Entitiy.Abstrakt;
+
+public class Loader {
 }
